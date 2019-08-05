@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hiya</string>
+    <string name="action_settings">Settings</string>
+    <string name="unknown">Unknown</string>
+    <string name="callog">Call Log</string>
+    <string name="location_permission_to_detect">This app needs your Read Call Log permission to detect
+        the device
+    </string>
+    <string name="calllogpermission">Call Log Permission</string>
+    <string name="proceed">Proceed</string>
+    <string name="cancel">Cancel</string>
+</resources>
